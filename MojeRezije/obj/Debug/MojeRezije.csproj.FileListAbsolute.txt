@@ -1,0 +1,232 @@
+D:\Zavrsni Rad\Registracija\MojeRezije\bin\Debug\MojeRezije.exe.config
+D:\Zavrsni Rad\Registracija\MojeRezije\bin\Debug\MojeRezije.exe
+D:\Zavrsni Rad\Registracija\MojeRezije\bin\Debug\MojeRezije.pdb
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.exe
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.pdb
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.Login.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+D:\Zavrsni Rad\Registracija\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe.config
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\bin\Debug\MojeRezije.pdb
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Login.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.exe
+C:\Users\Ivana\Desktop\MojeRezije\MojeRezije\MojeRezije\obj\Debug\MojeRezije.pdb
+D:\MojeRezije2\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe.config
+D:\MojeRezije2\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe
+D:\MojeRezije2\MojeRezije\MojeRezije\bin\Debug\MojeRezije.pdb
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Login.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.exe
+D:\MojeRezije2\MojeRezije\MojeRezije\obj\Debug\MojeRezije.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\bin\Debug\MojeRezije.exe.config
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\bin\Debug\MojeRezije.exe
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\bin\Debug\MojeRezije.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.exe
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.Recenzija.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.csproj.CopyComplete
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.AdminPage.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.Prijava.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.IspisPlina.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.IspisStruje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.IspisVode.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.LozinkePodudarati.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.PopunitePolja.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.EmailPostoji.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.IspravanEmail.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.LozEmailNetocni.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoObrisano.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoPrijavljen.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoRegistriran.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.DatotekaSpremljena.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.HvalaOcjena.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.IstiIzracun.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.NovoStanje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoSpremljeno.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije - Zavrsni Rad\MojeRezije\obj\Debug\MojeRezije.messagebox.PrvoIzracun.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe.config
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.AdminPage.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisPlina.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisStruje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisVode.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.DatotekaSpremljena.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.EmailPostoji.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.HvalaOcjena.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IspravanEmail.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IstiIzracun.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozEmailNetocni.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozinkePodudarati.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.NovoStanje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.PopunitePolja.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.PrvoIzracun.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoObrisano.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoPrijavljen.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoRegistriran.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoSpremljeno.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Prijava.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Recenzija.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CopyComplete
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.exe
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.dll
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.pdb
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.xml
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.xml
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.xml
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.xml
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Internet.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Mobitel.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Smece.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisInterneta.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisMobitela.resources
+D:\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisSmeca.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe.config
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.pdb
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.dll
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.dll
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.pdb
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.xml
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.xml
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.AdminPage.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Internet.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisInterneta.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisMobitela.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisPlina.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisSmeca.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisStruje.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisVode.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.DatotekaSpremljena.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.EmailPostoji.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.HvalaOcjena.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IspravanEmail.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IstiIzracun.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozEmailNetocni.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozinkePodudarati.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.NovoStanje.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.PopunitePolja.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.PrvoIzracun.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoObrisano.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoPrijavljen.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoRegistriran.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoSpremljeno.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Mobitel.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Prijava.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Recenzija.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Smece.resources
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CopyComplete
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.exe
+C:\Users\Dado\Desktop\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.pdb
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe.config
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.exe
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\MojeRezije.pdb
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.dll
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.dll
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.pdb
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IdentityModel.xml
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\IronXL.xml
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csprojAssemblyReference.cache
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.AdminPage.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Internet.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisInterneta.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisMobitela.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisPlina.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisSmeca.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisStruje.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.IspisVode.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Izbornik.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.DatotekaSpremljena.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.EmailPostoji.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.HvalaOcjena.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IspravanEmail.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.IstiIzracun.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozEmailNetocni.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.LozinkePodudarati.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.NovoStanje.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.PopunitePolja.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.PrvoIzracun.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoObrisano.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoPrijavljen.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoRegistriran.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.messagebox.UspjesnoSpremljeno.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Mobitel.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Prijava.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjePlin.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeStruje.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.RacunanjeVoda.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Recenzija.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Registracija.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Properties.Resources.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.Smece.resources
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.GenerateResource.cache
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CoreCompileInputs.cache
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.csproj.CopyComplete
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.exe
+C:\Users\Dado\Desktop\FAKS\MojeRezije-Zavrsni Rad\MojeRezije\MojeRezije\obj\Debug\MojeRezije.pdb
